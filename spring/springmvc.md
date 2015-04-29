@@ -1,11 +1,7 @@
-#spring mvc
-##Dispatcher Servlet
-##Controller
-##HandlerMapping
-##ViewResolver & View
-##Interceptor
-##Validate
-##执行流程
+﻿#spring mvc
+###核心组件
+Dispatcher Servlet Controller HandlerMapping ViewResolver & View Interceptor Validate
+###执行流程
 http请求首先在浏览器章发出请求，请求经过WEB-INF目录下的web.xml配置
 中的Dispatcher Servlet转发给对应的Controller，这个时候转发规则需要根据[name]-servlet.xml中配置的
 HandlerMapping来决定将请求交给那个Controller来处理，如果没有配置HandlerMapping就找不到处理器了,
