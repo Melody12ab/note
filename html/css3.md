@@ -20,7 +20,7 @@
 ##音频播放
 1. Audio(音频) HTML5提供了播放音频文件的标准
 2. control(控制器) 属性供添加播放、暂停和音量控件
-<audio>定义声音 <source>规定多媒体资源，可以多个
+<audio>定义声音 <source>规定多媒体资源，可以多个    
 转码工具[FFmpeg](http://ffmpeg.org/)
 
 ##视频播放
