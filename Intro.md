@@ -11,9 +11,23 @@
 - 能够熟练使用python开发自己的工具脚本，编写过小的[爬虫脚本](https://github.com/Melody12ab/python_crawler)和po generator。
 - 熟练编写sql，掌握mysql的基本使用。
 
+***
+##书
+- 疯狂Java    100%
+- Java 并发变成实战       20%
+- Java7并发变成实战手册    30%
+- Mysql高性能              5%
+- 啊哈 算法                50%
+- head first python        80%
+- head first 设计模式      30%
+- python基础教程           50%
+- 鸟哥的linux私房菜        30%
+- 汇编语言                 30%
+
 
 ***  
 ##实习经历
 2015-08--至今    
 新浪业务部后端开发，目前正参与的是数据门户网站的开发。负责服务化中的的服务接口的设计与实现并编写相关API文档。并对近期上线的项目进行维护，修bug，提patch。
+
 
