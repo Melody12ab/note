@@ -24,6 +24,8 @@
 - 鸟哥的linux私房菜        30%
 - 汇编语言                 30%
 - 现代操作系统             start
+- maven in action          70%
+- maven权威指南            30%
 
 
 ***
