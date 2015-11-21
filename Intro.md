@@ -10,7 +10,7 @@
 - archlinux脑残粉，平时使用arch进行开发和学习，自己做东西用python比较多，开发才切换到java平台下，在学习使用过程中掌握了maven，git，jenkins，sqlite，PKGBUILD等。曾参与维护社区oh-my-zsh，对其进行升级，编写PKGBUILD，遇到不明白的直接查archwiki。
 - 能够熟练使用python开发自己的工具脚本，编写过小的[爬虫脚本][4]和po generator。
 - 熟练编写sql，掌握mysql的基本使用，对mybatis有深入的了解（阅读过源码？）。
-- 理解服务化（dubbo）基本应用，掌握网站缓存的运用，[memcached][5]和redis[8]。
+- 理解服务化（dubbo）基本应用，掌握网站缓存的运用，[memcached][5]和[redis][8]。
 
 ***
 ##书
