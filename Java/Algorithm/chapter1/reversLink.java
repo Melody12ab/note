@@ -18,7 +18,7 @@ public class reversLink{
 			temp=temp.next;
 		}
 		// head=revLink(head);
-		int [] result=revArrrayFromLink(resolveLinkToArray(head),6,2);
+		int [] result=revArrrayFromLink(resolveLinkToArray(head),6,4);
 		head=resolveArrayToLink(result);
 		while(head!=null){
 			System.out.println(head.value);
@@ -54,8 +54,8 @@ public class reversLink{
 	private static int [] revArrrayFromLink(int [] array,int n,int k){
 		int t=n/k;//取区间值
 		int i=1;
-		while(i<=k){
-			reversArray(array,t*(i-1),i*t-1);
+		while(i<=t){
+			reversArray(array,k*(i-1),i*k-1);
 			i++;
 		}
 		return array;
@@ -65,7 +65,7 @@ public class reversLink{
 		int [] array=new int[6];
 		int index=0;
 		while(head!=null){
-			array[index]=head.value;
+			array[index++]=head.value;
 			head=head.next;
 		}		
 		return array;
