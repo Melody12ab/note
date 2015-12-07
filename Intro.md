@@ -27,12 +27,14 @@
 - 现代操作系统             start
 - maven in action          70%
 - maven权威指南            30%
+- angularjs                50%
 
 ***
 Document   
 - [Mybatis][6]
 - [MBG][7]
 - [Try Redis][9]
+- [angularjs 开发指南][10]
 
 ***  
 ##实习经历
@@ -40,7 +42,7 @@ Document
 > 新浪业务部后端开发，参与数据门户系统的开发。负责服务化中的的服务接口的设计与实现并编写相关API文档。并对近期上线的项目进行维护，修bug，提patch。    
     
 2015-10----至今
-> 海玩网技术部，数据接口实现，缓存设计和实现
+> 海玩网技术部，数据接口实现，缓存设计和实现，工作流处理，定时任务设计开发。
 
 
 
@@ -53,3 +55,4 @@ Document
 [7]: http://mybatis.org/generator/
 [8]: http://redis.io/
 [9]: http://try.redis.io/
+[10]: http://angularjs.cn/T008?p=1
