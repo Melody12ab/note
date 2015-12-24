@@ -25,8 +25,8 @@ RUN apt-get update \
 
     # 安装 Composer，此物是 PHP 用来管理依赖关系的工具
     # Laravel Symfony 等时髦的框架会依赖它
-    && curl -sS https://getcomposer.org/installer \
-        | php -- --install-dir=/usr/local/bin --filename=composer
+    #&& curl -sS https://getcomposer.org/installer \
+    #    | php -- --install-dir=/usr/local/bin --filename=composer
 
 # Apache 2 配置文件：/etc/apache2/apache2.conf
 # 给 Apache 2 设置一个默认服务名，避免启动时给个提示让人紧张.
@@ -39,10 +39,10 @@ RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf \
         /etc/php5/apache2/php.ini
 
 # 配置默认放置 App 的目录
-RUN mkdir -p /app && rm -rf /var/www/html && ln -s /app /var/www/html  
-COPY . /app  
-WORKDIR /app  
-RUN chmod 755 ./start.sh
+#RUN mkdir -p /app && rm -rf /var/www/html && ln -s /app /var/www/html  
+#COPY . /app  
+#WORKDIR /app  
+#RUN chmod 755 ./start.sh
 
-EXPOSE 80  
-CMD ["./start.sh"]  
+#EXPOSE 80  
+#CMD ["./start.sh"] 
