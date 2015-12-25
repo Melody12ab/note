@@ -9,7 +9,7 @@
 *** 
 
 ##综合技能   
-- 能熟练编写html，css，js，了解bootstrap，angularjs，nodejs。写过[学院网站首页][1]
+- 能熟练编写html，css，js，了解bootstrap，angularjs，nodejs,php。写过[学院网站首页][1]
 - 熟练使用java，熟悉多线程，了解IO/NIO，集合框架，能够使用spring等框架进行web开发。参与开发[学院实验室网站][2]和[微博数据采集，模拟登陆天涯和微博][3]。
 - archlinux脑残粉，平时使用arch进行开发和学习，自己做东西用python比较多，工作在java平台下，在学习使用过程中掌握了maven，git，jenkins，sqlite，PKGBUILD等。曾参与维护社区oh-my-zsh，对其进行升级，编写PKGBUILD，遇到不明白的直接查archwiki。
 - 能够熟练使用python开发自己的工具脚本，编写过小的[爬虫脚本][4]和po generator。
