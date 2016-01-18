@@ -41,6 +41,7 @@
 - [MBG][7]
 - [Try Redis][9]
 - [angularjs 开发指南][10]
+- [distrubuted system][11]
 
 ***  
 ##实习经历
@@ -62,3 +63,4 @@
 [8]: http://redis.io/
 [9]: http://try.redis.io/
 [10]: http://angularjs.cn/T008?p=1
+[11]: http://nil.csail.mit.edu/6.824/2015/
