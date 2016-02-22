@@ -13,9 +13,9 @@
 ***
 
 ##综合技能
-- 能熟练编写html，css，js，了解bootstrap，angularjs，nodejs，php，tcp/ip，http。写过[学院网站首页][1]
+- 能熟练编写html，css，js，了解bootstrap，angularjs，nodejs，php，tcp/ip，http。写过[学院网站首页][1]。
 - 熟练使用java，熟悉多线程，IO/NIO，集合框架，能够使用spring等框架进行web开发。参与开发[学院实验室网站][2]和[微博数据采集，模拟登陆天涯和微博][3]。
-- archlinux脑残粉，平时使用arch进行学习和开发，在学习使用过程中掌握了maven，git，jenkins，PKGBUILD，shell等。曾参与维护社区oh-my-zsh，对其进行升级，编写PKGBUILD，遇到不明白的直接查archwiki。
+- archlinux脑残粉，平时使用arch进行学习和开发，在学习使用过程中掌握了maven，git，jenkins，PKGBUILD，shell等。曾参与维护社区oh-my-zsh，对其进行升级，编写PKGBUILD，遇到问题的解决方案为查阅[archwiki][14]。
 - 掌握常用的数据结构和算法，刷过[The Art of Programming][12]
 - 能够熟练使用python开发自己的工具脚本，编写过小的[爬虫脚本][4]和po generator。
 - 熟练编写sql，掌握mysql的基本使用，对mybatis有深入的了解（阅读过部分源码）。
@@ -37,7 +37,7 @@
 - maven in action          70%
 - maven权威指南            30%
 - angularjs                50%
-- [PhP document][13]             40%
+- [PhP document][13]       40%
 
 ***
 ##Document   
@@ -72,3 +72,4 @@
 [11]: http://nil.csail.mit.edu/6.824/2015/
 [12]: http://taop.marchtea.com/
 [13]: http://php.net/manual/zh/
+[14]: https://wiki.archlinux.org/
