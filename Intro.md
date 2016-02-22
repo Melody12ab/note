@@ -64,7 +64,6 @@
 - maven in action          70%
 - maven权威指南            30%
 - angularjs                50%
-- [PHP document][13]       40%
 
 ***
 
@@ -74,7 +73,7 @@
 - [Try Redis][9]
 - [angularjs 开发指南][10]
 - [distrubuted system][11]
-
+- [PHP document][13]        
 
 [1]: https://github.com/Melody12ab/note/blob/master/MathWeb/html/index.html
 [2]: http://202.197.237.29:9292/
