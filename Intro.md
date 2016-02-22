@@ -5,7 +5,7 @@
 ##个人信息
 姓名：李继龙   
 学校：湘潭大学      
-专业：信息与计算科学（数学院）    
+专业：信息与计算科学           
 学历：本科（2016 应届毕业生）     
 邮箱：357170967@qq.com     
 电话：18390226082     
@@ -13,14 +13,16 @@
 ***
 
 ##综合技能
-- 能熟练编写html，css，js，了解bootstrap，angularjs，nodejs，php，tcp/ip，http。写过[学院网站首页][1]。
-- 熟练使用java，熟悉多线程，IO/NIO，集合框架，能够使用spring等框架进行web开发。参与开发[学院实验室网站][2]和[微博数据采集，模拟登陆天涯和微博][3]。
-- archlinux脑残粉，平时使用arch进行学习和开发，在学习使用过程中掌握了maven，git，jenkins，PKGBUILD，shell等。曾参与维护社区oh-my-zsh，对其进行升级，编写PKGBUILD，遇到问题的解决方案为查阅[archwiki][14]。
+- 能熟练编写html、css、js，了解bootstrap、angularjs、nodejs、php、tcp/ip、http。写过[学院网站首页][1]。
+- java基础扎实，理解多线程/并发、IO/NIO、集合框架、动态代理、AOP等基础框架，能够使用spring等框架进行web开发，
+略读过Spring部分源码，对JVM原理有一定的了解。参与开发[学院实验室网站][2]和[微博数据采集，模拟登陆天涯和微博][3]。
+- 掌握linux，钟爱archlinux，在学习使用过程中掌握了maven、git、jenkins、PKGBUILD、shell等。曾参与维护社区oh-my-zsh，
+对其进行升级，编写PKGBUILD，遇到问题的解决方案为查阅[archwiki][14]。
 - 掌握常用的数据结构和算法，刷过[The Art of Programming][12]
 - 能够熟练使用python开发自己的工具脚本，编写过小的[爬虫脚本][4]和po generator。
-- 熟练编写sql，掌握mysql的基本使用，对mybatis有深入的了解（阅读过部分源码）。
-- 理解服务化（dubbo）基本应用，掌握缓存的运用，[memcached][5]和[redis][8]，掌握消息队列（Kafka）的基本使用。
-
+- 熟练编写sql，掌握mysql的管理和应用，对mybatis有深入的了解（阅读过部分源码），了解Nosql相关知识。
+- 理解服务化（dubbo）基本应用，掌握缓存的运用，[memcached][5]和[redis][8]。
+- 对分布式MQ（kafka），高并发模型有基本的了解和实践。
 ***
 
 ##Book
@@ -37,7 +39,7 @@
 - maven in action          70%
 - maven权威指南            30%
 - angularjs                50%
-- [PhP document][13]       40%
+- [PHP document][13]       40%
 
 ***
 ##Document   
