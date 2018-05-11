@@ -1,10 +1,10 @@
 ﻿# note
-##git
+## git
 暂时只有git常用命令
-##html
+## html
 以前搜集的一些资料
 
-##Java
+## Java
 * Algorithm        算法
 * DataStructure    数据结构实现
 * interviewer      面试相关
@@ -13,13 +13,13 @@
 * Sort             排序算法极其实现
 * Intro.md         简历
 
-##redis
+## redis
 快速使用笔记
-##spring
+## spring
 Spring Mvc部分
 
-##nodejs
+## nodejs
 js相关部分
 
-##docker
+## docker
 docker定制
